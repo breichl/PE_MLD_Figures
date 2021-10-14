@@ -1,0 +1,8 @@
+Figure_Save_Path = './Figures/'
+RG_Threshold_MLD_Path='../Data/prho_threshold_003.nc'
+RG_HolteTalley_MLD_Path='../Data/holtetalley.nc'
+Argo_Path = ''
+SST_Path = ''
+ePBL_Run_Path=''
+KPP_Run_Path=''
+RG_PE_MLD_Path='../Data/'
